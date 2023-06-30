@@ -8,7 +8,7 @@ description: |
 website: https://github.com/bitrise-steplib/bitrise-step-activate-gradle-remote-cache
 source_code_url: https://github.com/bitrise-steplib/bitrise-step-activate-gradle-remote-cache
 support_url: https://github.com/bitrise-steplib/bitrise-step-activate-gradle-remote-cache
-published_at: 2023-06-30T14:22:20.837998-07:00
+published_at: 2023-06-30T14:49:12.303296-07:00
 source:
   git: https://github.com/bitrise-steplib/bitrise-step-activate-gradle-remote-cache.git
   commit: 1b8642ecfa4f10e10ac9b0e91f497b95dbaf5663
